@@ -62,5 +62,3 @@ To maintain professional security standards:
 <div align="center">
 Made with ❤️ and ⚔️ by <a href="https://github.com/M-Zulqurnain688">M-Zulqurnain688</a>
 </div>
-
-```
