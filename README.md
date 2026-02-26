@@ -2,9 +2,11 @@
 
 A gamified, real-time GitHub activity tracker that transforms your latest commit data into a dynamic "Quest Card." Showcase your coding velocity, insertions, and deletions with a sleek, neon-animated interface.
 
-## 🚀 Live Preview
+
+## 🚀 Preview
 <div align="center">
-  <img src="https://YOUR_VERCEL_URL/github-badge/M-Zulqurnain688?color=00FF94" alt="Contribution Quest" />
+  <img src="./assets/preview.png" alt="Contribution Quest Preview" width="600" />
+  <!-- <img src="https://YOUR_VERCEL_URL/github-badge/M-Zulqurnain688?color=00FF94" alt="Contribution Quest" /> -->
 </div>
 
 ## ✨ Features
