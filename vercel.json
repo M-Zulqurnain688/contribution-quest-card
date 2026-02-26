@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/github-badge/(.*)", "destination": "/api/index.js" }
+  ]
+}
