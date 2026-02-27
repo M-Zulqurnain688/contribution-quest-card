@@ -21,12 +21,14 @@ A gamified, real-time GitHub activity tracker that transforms your latest commit
 
 ## 🛠️ Installation & Usage
 
-## 🚀 Quick Start (Use Mine!)
+### 🚀 Quick Start (Use Mine!)
 
 You don't need to deploy anything to use this on your profile. Simply copy the code below and change `YOUR_USERNAME` to your **GitHub Username**:
 
 ```markdown
 [![My Quest Card](https://contribution-quest-card.vercel.app/github-badge/YOUR_USERNAME)](https://github.com/M-Zulqurnain688/contribution-quest-card)
+
+```
 
 ### 1. Deployment
 This project is optimized for **Vercel**. 
