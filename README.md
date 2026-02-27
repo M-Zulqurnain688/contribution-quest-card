@@ -21,6 +21,13 @@ A gamified, real-time GitHub activity tracker that transforms your latest commit
 
 ## 🛠️ Installation & Usage
 
+## 🚀 Quick Start (Use Mine!)
+
+You don't need to deploy anything to use this on your profile. Simply copy the code below and change `YOUR_USERNAME` to your **GitHub Username**:
+
+```markdown
+[![My Quest Card](https://contribution-quest-card.vercel.app/github-badge/YOUR_USERNAME)](https://github.com/M-Zulqurnain688/contribution-quest-card)
+
 ### 1. Deployment
 This project is optimized for **Vercel**. 
 1. Fork or create a private repository with the provided structure.
@@ -63,6 +70,11 @@ To maintain professional security standards:
 
 ```
 
+```markdown
+## 🔍 Technical Note: The 90-Day Logic
+To keep the "Quest" relevant to your current journey, this card pulls data from the **GitHub Events API**. 
+- It tracks activity from the **last 90 days**.
+- It focuses on **recent velocity**, meaning old repositories you haven't touched in years won't affect your current "Battle Stats."
 ---
 
 <div align="center">
