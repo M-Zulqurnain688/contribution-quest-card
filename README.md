@@ -72,13 +72,13 @@ To maintain professional security standards:
 
 ```
 
-```markdown
 ## 🔍 Technical Note: The 90-Day Logic
-To keep the "Quest" relevant to your current journey, this card pulls data from the **GitHub Events API**. 
-- It tracks activity from the **last 90 days**.
-- It focuses on **recent velocity**, meaning old repositories you haven't touched in years won't affect your current "Battle Stats."
+To keep the "Quest" relevant to your current journey, this card pulls data from the **GitHub Events API**.
+* It tracks activity from the **last 90 days**.
+* It focuses on **recent velocity**, meaning old repositories you haven't touched in years won't affect your current score.
+
 ---
 
 <div align="center">
-Made with ❤️ and ⚔️ by <a href="https://github.com/M-Zulqurnain688">M-Zulqurnain688</a>
+  Made with ❤️ and ⚔️ by <a href="https://github.com/M-Zulqurnain688">M-Zulqurnain688</a>
 </div>
